@@ -1,6 +1,7 @@
 window.env = {
   "NODE_PATH": "./src",
   "REACT_APP_PRODUCTION": "0",
+  "PUBLIC_URL": "/wb3",
   "PORT": "3000",
   "SITE_BASENAME": "/wb3",
   "REACT_APP_NETWORK": "97",
