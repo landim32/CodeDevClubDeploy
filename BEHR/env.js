@@ -1,7 +1,7 @@
 window.env = {
   "NODE_PATH": "./src",
   "REACT_APP_PRODUCTION": "0",
-  "PORT": "3000",
+  "PORT": "80",
   "PUBLIC_URL": "/behr",
   "SITE_BASENAME": "/behr",
   "BEHR_TOKEN_CONTRACT": "0xb3b7ab83A2c18e0EFC14de551f7255694E303eCd",
