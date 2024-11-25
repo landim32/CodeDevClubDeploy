@@ -14,6 +14,6 @@ COPY WB3 /var/www/wb3
 
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 
-EXPOSE 80
+EXPOSE 443
 
 CMD ["nginx", "-g", "daemon off;"]

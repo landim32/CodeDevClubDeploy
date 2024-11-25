@@ -1,2 +1,2 @@
 docker build -t codedevclub-app -f Dockerfile .
-docker run --name codedevclub-app1 -p 80:80 codedevclub-app &
+docker run --name codedevclub-app1 -p 443:443 codedevclub-app &
